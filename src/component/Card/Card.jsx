@@ -20,11 +20,10 @@ const ProductCard = (props) => {
                 <div className="product-text">
                     <h1>Harvest Vase</h1>
                     <h2>by studio and friends</h2>
-                    <p>Harvest Vases are a reinterpretation<br />
-                        of peeled fruits and vegetables as<br />
-                        functional objects. The surfaces<br />
-                        appear to be sliced and pulled aside,<br />
-
+                    <p>Harvest Vases are a reinterpretation
+                        of peeled fruits and vegetables as
+                        functional objects. The surfaces
+                        appear to be sliced and pulled aside
                         allowing room for growth. </p>
                 </div>
 
